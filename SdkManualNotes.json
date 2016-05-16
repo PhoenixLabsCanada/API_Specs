@@ -4,6 +4,7 @@
         "actionscript": "0.20.160502",
         "cpp-windows": "0.25.160502",
         "csharp": "0.25.160502",
+        "csharp-flat": "0.25.160502",
         "csharp-unity": "0.26.160502",
         "java": "0.24.160502",
         "js-node": "0.18.160502",
